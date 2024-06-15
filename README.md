@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm PaulNg</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-img align="right" alt="Coding" width="400" src=("https://giphy.com/embed/2IudUHdI075HL02Pkk")
+
 
 - 🌱 I’m currently learning **React Navite**
 
