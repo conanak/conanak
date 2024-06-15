@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm PaulNg</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **React Navite**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **nguyentienminh2233@gmail.co**
+- 📫 How to reach me **nguyentienminh2233@gmail.com**
 
 - ⚡ Fun fact **I'm funny**
 
